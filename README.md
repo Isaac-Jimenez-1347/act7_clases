@@ -4,8 +4,8 @@ clases y objetos
 # clases y objetos
 - *codigo*
 
-![image](https://github.com/user-attachments/assets/b55845d4-f606-425f-9ddc-f5faeb813e95)
+![image](https://github.com/user-attachments/assets/11ef9454-cdaa-4f24-b24c-146e780ed596)
 
 - *Resultado*
 
-![image](https://github.com/user-attachments/assets/3fad2994-6d27-45a4-9ee5-b0f60cd4cf74)
+![image](https://github.com/user-attachments/assets/f7b816d2-ea80-4e64-a4fa-8f4071b436cd)
